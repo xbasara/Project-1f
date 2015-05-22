@@ -1,0 +1,44 @@
+﻿Cleaning up project for viewing
+
+# Please enter the commit message for your changes. Lines starting
+# with '#' will be ignored, and an empty message aborts the commit.
+# On branch master
+# Your branch is up-to-date with 'origin/master'.
+#
+# Changes to be committed:
+#	deleted:    CMakeCache.txt
+#	deleted:    CMakeFiles/3.0.2/CMakeCCompiler.cmake
+#	deleted:    CMakeFiles/3.0.2/CMakeCXXCompiler.cmake
+#	deleted:    CMakeFiles/3.0.2/CMakeDetermineCompilerABI_C.bin
+#	deleted:    CMakeFiles/3.0.2/CMakeDetermineCompilerABI_CXX.bin
+#	deleted:    CMakeFiles/3.0.2/CMakeRCCompiler.cmake
+#	deleted:    CMakeFiles/3.0.2/CMakeSystem.cmake
+#	deleted:    CMakeFiles/3.0.2/CompilerIdC/CMakeCCompilerId.c
+#	deleted:    CMakeFiles/3.0.2/CompilerIdC/a.exe
+#	deleted:    CMakeFiles/3.0.2/CompilerIdCXX/CMakeCXXCompilerId.cpp
+#	deleted:    CMakeFiles/3.0.2/CompilerIdCXX/a.exe
+#	deleted:    CMakeFiles/CMakeDirectoryInformation.cmake
+#	deleted:    CMakeFiles/CMakeOutput.log
+#	deleted:    CMakeFiles/Makefile.cmake
+#	deleted:    CMakeFiles/Makefile2
+#	deleted:    CMakeFiles/TargetDirectories.txt
+#	deleted:    CMakeFiles/cmake.check_cache
+#	deleted:    CMakeFiles/progress.marks
+#	deleted:    CMakeFiles/project1F.dir/CXX.includecache
+#	deleted:    CMakeFiles/project1F.dir/DependInfo.cmake
+#	deleted:    CMakeFiles/project1F.dir/build.make
+#	deleted:    CMakeFiles/project1F.dir/cmake_clean.cmake
+#	deleted:    CMakeFiles/project1F.dir/depend.internal
+#	deleted:    CMakeFiles/project1F.dir/depend.make
+#	deleted:    CMakeFiles/project1F.dir/flags.make
+#	deleted:    CMakeFiles/project1F.dir/includes_CXX.rsp
+#	deleted:    CMakeFiles/project1F.dir/link.txt
+#	deleted:    CMakeFiles/project1F.dir/objects.a
+#	deleted:    CMakeFiles/project1F.dir/objects1.rsp
+#	deleted:    CMakeFiles/project1F.dir/progress.make
+#	deleted:    CMakeFiles/project1F.dir/project1F.cxx.obj
+#	deleted:    Makefile
+#	new file:   README.txt
+#	deleted:    cmake_install.cmake
+#
+
